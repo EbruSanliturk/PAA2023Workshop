@@ -6,6 +6,11 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Disclaimer
+
+The gtrendsR package authors are Philippe Massicotte and Dirk Eddelbuettel. These codes are a compilation of my own experience using their package and with the help of the open source community online using the gtrendsR package. 
+
+If and when you receive an error code check https://github.com/PMassicotte/gtrendsR/issues or online discussions. 
 
 ## Obtaining daily data
 
